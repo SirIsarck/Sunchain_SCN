@@ -145,6 +145,7 @@ Collaborators: IoT Engineer, Smart Contract Developer, Community Operations Lead
 Quarter	Milestone	Goal
 
 Q4 2025	Prototype / MVP Development	Planned deployment in 3 communities
+
 Q1 2026	Expand to 5 new communities	500 active users
 
 Q2 2026	Launch SunChain Africa Platform	Mainnet-ready deployment
