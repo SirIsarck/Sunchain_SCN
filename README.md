@@ -146,6 +146,7 @@ Quarter	Milestone	Goal
 
 Q4 2025	Prototype / MVP Development	Planned deployment in 3 communities
 Q1 2026	Expand to 5 new communities	500 active users
+
 Q2 2026	Launch SunChain Africa Platform	Mainnet-ready deployment
 
 
@@ -188,6 +189,6 @@ Email: ishaqisah013@gmail.com
 
 Twitter: @Sirisarck
 
-Github: 
+Github: https://github.com/SirIsarck/Sunchain_SCN
 
 
